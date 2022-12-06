@@ -21,7 +21,7 @@ sections:
           url: https://safe.menlosecurity.com/https://smart.mit.edu/research/biosym/about-biosym
         - title: Center for Environmental Sensing and Modeling
           description: CENSAM
-          url: /https://safe.menlosecurity.com/https://smart.mit.edu/research/censam/about-censam/
+          url: https://safe.menlosecurity.com/https://smart.mit.edu/research/censam/about-censam
   - infobar:
       title: Infobar title
       subtitle: Subtitle
