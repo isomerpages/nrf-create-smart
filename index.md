@@ -22,6 +22,9 @@ sections:
         - title: Center for Environmental Sensing and Modeling
           description: CENSAM
           url: /https://safe.menlosecurity.com/https://smart.mit.edu/research/censam/about-censam/
+        - title: Disruptive & Sustainable Technologies for Agri Precision
+          description: DISTAP
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
