@@ -2,7 +2,10 @@ logo: /images/isomer-logo.svg
 links:
   - title: Reach out to Us
     url: /https://safe.menlosecurity.com/https://smart.mit.edu//
-  - title: This is a single page demo
+  - title: Single page demo
     url: https://safe.menlosecurity.com/https://smart.mit.edu/research/biosym/about-biosym
   - title: Folder holds multiple pages
     collection: example-folder
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
