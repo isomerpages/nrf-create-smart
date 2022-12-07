@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: CREATE - Campus for Research Excellence and Technological Enterprise
+notification: "[Test] CREATE - Campus for Research Excellence and Technological Enterprise"
 sections:
   - hero:
       title: SMART
