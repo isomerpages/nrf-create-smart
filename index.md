@@ -20,9 +20,9 @@ sections:
           description: ""
           url: /FAQ/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: SMART Interdisciplinary Research Groups
+      description: SMART fosters a creative and collaborative environment that
+        stimulates major discoveries through its five interdisciplinary research
+        groups.
       url: /faq/
 ---
