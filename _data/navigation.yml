@@ -6,6 +6,6 @@ links:
     url: https://safe.menlosecurity.com/https://smart.mit.edu/research/biosym/about-biosym
   - title: Folder multiple page demo
     collection: example-folder
-  - title: Menu Title
-    url: /permalink
+  - title: "Submenu demo "
+    url: https://safe.menlosecurity.com/https://smart.mit.edu/research/biosym/about-biosym
     sublinks: []
