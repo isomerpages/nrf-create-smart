@@ -11,7 +11,7 @@ sections:
       subtitle: Singapore-MIT Alliance for Research and Technology
       background: /images/test_create_smart_image.jpg
       button: Contact Us
-      url: /https://safe.menlosecurity.com/https://smart.mit.edu//
+      url: /test-smart-contactus
       key_highlights:
         - title: "Antimicrobial Resistance "
           description: AMR
