@@ -7,5 +7,9 @@ links:
   - title: Folder multiple page demo
     collection: example-folder
   - title: "Submenu demo "
-    url: https://safe.menlosecurity.com/https://smart.mit.edu/research/biosym/about-biosym
-    sublinks: []
+    url: https://safe.menlosecurity.com/https://www.create.edu.sg/about-create/research-centres/smart
+    sublinks:
+      - title: BioSyM IRG
+        url: https://safe.menlosecurity.com/https://smart.mit.edu/research/biosym/about-biosym
+      - title: CENSAM
+        url: https://safe.menlosecurity.com/https://smart.mit.edu/research/censam/about-censam
