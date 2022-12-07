@@ -21,11 +21,6 @@ contacts:
   - content:
       - phone: +65 6126 8603
       - email: ""
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
       - other: ""
-    title: Careers Opportunities
+    title: General Enquiries & Feedback
 ---
