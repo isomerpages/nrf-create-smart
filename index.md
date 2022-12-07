@@ -25,4 +25,13 @@ sections:
         stimulates major discoveries through its five interdisciplinary research
         groups.
       url: /faq/
+  - infopic:
+      title: Antimicrobial Resistance
+      subtitle: AMR
+      description: Leverages the scientific and clinical strengths of MIT and
+        Singapore to develop transformative technologies against drug-resistant
+        microbes.
+      button: FIND OUT MORE
+      url: \AMR\
+      alt: Image alt text
 ---
