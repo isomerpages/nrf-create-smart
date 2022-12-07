@@ -1,4 +1,5 @@
 collections:
   collection-w-subfolder:
     output: true
-    order: []
+    order:
+      - Example page.md
