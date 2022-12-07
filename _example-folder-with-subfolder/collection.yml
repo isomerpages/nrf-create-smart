@@ -1,0 +1,4 @@
+collections:
+  example-folder-with-subfolder:
+    output: true
+    order: []
