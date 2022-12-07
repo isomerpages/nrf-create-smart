@@ -2,7 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Reach out to Us
     url: /https://safe.menlosecurity.com/https://smart.mit.edu//
-  - title: BioSyM IRG
-    url: https://safe.menlosecurity.com/https://smart.mit.edu/research/biosym/about-biosym
   - title: Example Folder
     collection: example-folder
+  - title: This is a single page demo
+    url: https://safe.menlosecurity.com/https://smart.mit.edu/research/biosym/about-biosym
