@@ -2,4 +2,5 @@ collections:
   collection-w-subfolder:
     output: true
     order:
+      - Folder/.keep
       - Example page.md
