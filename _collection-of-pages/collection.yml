@@ -2,4 +2,5 @@ collections:
   collection-of-pages:
     output: true
     order:
+      - Example page name.md
       - example-page.md
