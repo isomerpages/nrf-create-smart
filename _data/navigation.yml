@@ -4,8 +4,6 @@ links:
     url: /https://safe.menlosecurity.com/https://smart.mit.edu//
   - title: Single page demo
     url: https://safe.menlosecurity.com/https://smart.mit.edu/research/biosym/about-biosym
-  - title: Folder multiple page demo
-    collection: example-folder
   - title: "Submenu demo "
     url: https://safe.menlosecurity.com/https://www.create.edu.sg/about-create/research-centres/smart
     sublinks:
