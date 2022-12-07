@@ -1,4 +1,5 @@
 collections:
   collection-of-pages:
     output: true
-    order: []
+    order:
+      - example-page.md
