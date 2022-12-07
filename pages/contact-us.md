@@ -17,13 +17,6 @@ locations:
         description: ""
     maps_link: ""
     title: Where to Find Us
-  - address:
-      - ""
-      - ""
-      - ""
-    operating_hours: []
-    maps_link: ""
-    title: " "
 contacts:
   - content:
       - phone: +65 6126 8603
@@ -34,5 +27,5 @@ contacts:
       - phone: ""
       - email: careers@abc.gov.sg
       - other: ""
-    title: Careers
+    title: Careers Opportunities
 ---
