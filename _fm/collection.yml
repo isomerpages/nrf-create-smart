@@ -2,7 +2,7 @@ collections:
   fm:
     output: true
     order:
-      - FM Career Opportunities.md
-      - Directory.md
-      - Research Projects.md
       - About FM.md
+      - Research Projects.md
+      - Directory.md
+      - FM Career Opportunities.md
