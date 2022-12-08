@@ -2,5 +2,6 @@ collections:
   research:
     output: true
     order:
+      - FM/Research Projects.md
       - FM/About FM.md
       - FM/.keep
