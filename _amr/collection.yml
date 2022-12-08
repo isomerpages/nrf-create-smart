@@ -2,6 +2,7 @@ collections:
   amr:
     output: true
     order:
+      - AMR Career Opportunities.md
       - Directory.md
       - Research Projects.md
       - About AMR.md
