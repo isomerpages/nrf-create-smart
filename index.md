@@ -41,7 +41,7 @@ sections:
         merging diverse engineering and bioscience disciplines
       button: FIND OUT MORE
       url: /BioSYM/
-      image: /images/BioSYM.png
+      image: /images/BioSYM2.png
       alt: Image alt text
   - infopic:
       title: Center for Environmental Sensing and Modeling
