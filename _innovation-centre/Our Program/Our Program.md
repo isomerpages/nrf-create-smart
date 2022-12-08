@@ -4,15 +4,12 @@ permalink: /innovation-centre/Our-Program/permalink/
 description: ""
 third_nav_title: Our Program
 ---
-
 ### Our Program
 -----------
 
-```
-												One Program to Grow New Ventures,
-												Three Phases of Funding and Mentorship,
-												Four Grants to Fund Venture Development
-```
+**One Program to Grow New Ventures**\
+**Three Phases of Funding and Mentorship**\
+**Four Grants to Fund Venture Development**
 
 The SMART IC runs a comprehensive program for scientists and researchers passionate about growing new ventures around their disruptive deep technology. Depending on the nature and scope of your technology advance, we have four grant programs to choose from:
 
