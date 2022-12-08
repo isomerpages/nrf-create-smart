@@ -32,6 +32,43 @@ sections:
         Singapore to develop transformative technologies against drug-resistant
         microbes.
       button: FIND OUT MORE
-      url: \AMR\
+      url: /AMR/
+      alt: Image alt text
+      image: /images/AMR2.png
+  - infopic:
+      title: BioSystems and Micromechnics
+      subtitle: BioSYM
+      description: Developing innovative healthcare technologies of the future by
+        merging diverse engineering and bioscience disciplines
+      button: FIND OUT MORE
+      url: /BioSYM/
+      image: /images/BioSYM.png
+      alt: Image alt text
+  - infopic:
+      title: Center for Environmental Sensing and Modeling
+      subtitle: CENSAM
+      description: Develop accurate representations of Singapore's natural and built
+        environment  for urban planning, environmental forecasting and
+        environment impact assessment
+      button: FIND OUT MORE
+      url: /CENSAM/
+      image: /images/CENSAM.png
+      alt: Image alt text
+  - infopic:
+      title: Disruptive and Sustainable Tech for Agricultural Precision
+      subtitle: DISTAP
+      description: Aims to revolutionalize how food is produced to meet the demands of
+        a growing population in an increasing resource constrained world
+      button: FIND OUT MORE
+      url: /DISTAP/
+      image: /images/DISTAP.png
+      alt: Image alt text
+  - infopic:
+      title: Future Urban Mobility
+      subtitle: FM
+      description: Developing a new paradigm for the planning, design, and operation
+        of future urban passenger & freight transportation systems
+      button: FIND OUT MORE
+      url: /FM/
       alt: Image alt text
 ---
