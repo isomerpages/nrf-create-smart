@@ -2,8 +2,8 @@ collections:
   research:
     output: true
     order:
-      - FM/FM Career Opportunities.md
       - FM/.keep
       - FM/About FM.md
       - FM/Research Projects.md
       - FM/Directory.md
+      - FM/FM Career Opportunities.md
