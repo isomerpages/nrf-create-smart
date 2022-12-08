@@ -1,5 +1,5 @@
 collections:
-  collection-w-subfolder:
+  research:
     output: true
     order:
       - Folder/Example page.md
