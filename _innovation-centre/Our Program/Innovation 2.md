@@ -84,3 +84,6 @@ The Venture Exploration Phase will provide training in hypothesis development, m
     
     Download to apply:
 		
+	[Venture Exploration Workshop Application Form](/files/InnovationProgram2%20Forms/SMART_Innovation_Grant_Phase_I_Venture_Exploration_Workshop.pdf)
+	
+	
