@@ -3,21 +3,15 @@ title: About FM
 permalink: /FM/AboutFM/permalink/
 description: ""
 ---
-
-
-
-
-
-
-Future Urban Mobility (FM) IRG
+## Future Urban Mobility (FM) IRG
 ------------------------------
 
 The Future Urban Mobility IRG’s grand challenge is to develop innovative mobility solutions that simultaneously tackle two opposing objectives: 
 
-1. To improve the safety, comfort and time associated with transportation, getting individuals and good where they need to be, and when they need to be there; and
-2.  To reverse the alarming, unsustainable energy and environmental trends associated with transportation, and devise transportation systems that materially enhance sustainability and societal well-being.
+*  To improve the safety, comfort and time associated with transportation, getting individuals and good where they need to be, and when they need to be there; and
+*   To reverse the alarming, unsustainable energy and environmental trends associated with transportation, and devise transportation systems that materially enhance sustainability and societal well-being.
 
-**Mission**
+### Mission
 
 Develop, in and beyond Singapore, new paradigms for the planning, design and operation of future urban mobility systems.
 
