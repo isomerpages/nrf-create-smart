@@ -1,5 +1,0 @@
-collections:
-  research-obsolete:
-    output: true
-    order:
-      - AMRobsolete/.keep
