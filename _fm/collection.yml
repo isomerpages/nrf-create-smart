@@ -2,5 +2,6 @@ collections:
   fm:
     output: true
     order:
+      - Directory.md
       - Research Projects.md
       - About FM.md
