@@ -2,5 +2,5 @@ collections:
   about-smart:
     output: true
     order:
-      - Board Members.md
       - About SMART.md
+      - Board Members.md
