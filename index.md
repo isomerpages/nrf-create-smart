@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: About SMART
           description: ""
-          url: https://safe.menlosecurity.com/https://smart.mit.edu/about-smart/about-smart
+          url: /about-smart/permalink/
         - title: FAQs
           description: ""
           url: /FAQ/
