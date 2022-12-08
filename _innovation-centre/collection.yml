@@ -2,6 +2,7 @@ collections:
   innovation-centre:
     output: true
     order:
+      - Which Program is Best For You.md
       - Our Program/Innovation 2.md
       - Our Program/Our Program.md
       - Our Program/.keep
