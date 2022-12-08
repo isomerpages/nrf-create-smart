@@ -3,7 +3,7 @@ links:
   - title: About SMART
     collection: about-smart
   - title: Research
-    url: /Research/
+    url: /about-smart/permalink/
     sublinks:
       - title: FM
         url: /FM/AboutFM/permalink/
