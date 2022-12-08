@@ -1,0 +1,4 @@
+collections:
+  amr:
+    output: true
+    order: []
