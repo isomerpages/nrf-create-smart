@@ -72,4 +72,13 @@ sections:
       url: /FM/
       alt: Image alt text
       image: /images/FM.png
+  - infopic:
+      title: Infectious Diseases
+      subtitle: ID
+      description: Investigating infectious diseases with a focus on influenza,
+        tuberculosis, malaria and dengue
+      button: FIND OUT MORE
+      url: /ID/
+      image: /images/ID.png
+      alt: Image alt text
 ---
