@@ -11,7 +11,9 @@ links:
         url: /AMR/AboutAMR/permalink/
   - title: Innovation Centre
     url: /InnovationCentre/permalink
-    sublinks: []
+    sublinks:
+      - title: About SMART Innovation Centre
+        url: /innovation-centre/aboutSMARTIC/permalink/
   - title: Reach out to Us
     url: /https://safe.menlosecurity.com/https://smart.mit.edu//
   - title: Single page demo
