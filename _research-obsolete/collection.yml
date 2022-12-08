@@ -2,5 +2,5 @@ collections:
   research-obsolete:
     output: true
     order:
-      - AMR/About AMR.md
-      - AMR/.keep
+      - AMRobsolete/About AMR.md
+      - AMRobsolete/.keep
