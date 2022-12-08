@@ -68,7 +68,7 @@ sections:
       description: Developing a new paradigm for the planning, design, and operation
         of future urban passenger & freight transportation systems
       button: FIND OUT MORE
-      url: /Research/FM/AboutFM
+      url: /Research/FM/AboutFM/permalink/
       alt: Image alt text
       image: /images/FM.png
   - infopic:
