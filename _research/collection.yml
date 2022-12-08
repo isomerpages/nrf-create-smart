@@ -4,8 +4,8 @@ collections:
     order:
       - AMR/About AMR.md
       - AMR/.keep
-      - FM/.keep
-      - FM/About FM.md
-      - FM/Research Projects.md
-      - FM/Directory.md
-      - FM/FM Career Opportunities.md
+      - FM OBSOLETE/.keep
+      - FM OBSOLETE/About FM.md
+      - FM OBSOLETE/Research Projects.md
+      - FM OBSOLETE/Directory.md
+      - FM OBSOLETE/FM Career Opportunities.md
