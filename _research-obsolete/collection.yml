@@ -1,5 +1,5 @@
 collections:
-  research:
+  research-obsolete:
     output: true
     order:
       - AMR/About AMR.md
