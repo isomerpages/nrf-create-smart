@@ -2,5 +2,5 @@ collections:
   research:
     output: true
     order:
-      - Folder/Example page.md
-      - Folder/.keep
+      - FM/Example page.md
+      - FM/.keep
