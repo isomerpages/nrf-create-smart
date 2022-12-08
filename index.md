@@ -81,4 +81,13 @@ sections:
       url: /ID/
       image: /images/ID.png
       alt: Image alt text
+  - infopic:
+      title: Low Energy Electronic Systems
+      subtitle: LEES
+      description: Developing new integrated circuits with reduced energy per function
+        for applications in wireless comms, power electronics, LEDs, printing,
+        displays & computing
+      button: FIND OUT MORE
+      url: /LEES/
+      alt: Image alt text
 ---
