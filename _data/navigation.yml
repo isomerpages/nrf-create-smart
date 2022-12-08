@@ -1,9 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Reach out to Us
-    url: /https://safe.menlosecurity.com/https://smart.mit.edu//
-  - title: Single page demo
-    url: https://safe.menlosecurity.com/https://smart.mit.edu/research/biosym/about-biosym
+  - title: About SMART
+    collection: about-smart
   - title: Research
     url: /Research/
     sublinks:
@@ -11,5 +9,7 @@ links:
         url: /FM/AboutFM/permalink/
       - title: AMR
         url: /AMR/AboutAMR/permalink/
-  - title: About SMART
-    collection: about-smart
+  - title: Reach out to Us
+    url: /https://safe.menlosecurity.com/https://smart.mit.edu//
+  - title: Single page demo
+    url: https://safe.menlosecurity.com/https://smart.mit.edu/research/biosym/about-biosym
