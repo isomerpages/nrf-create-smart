@@ -5,7 +5,7 @@ links:
   - title: Single page demo
     url: https://safe.menlosecurity.com/https://smart.mit.edu/research/biosym/about-biosym
   - title: "Submenu demo "
-    url: https://safe.menlosecurity.com/https://www.create.edu.sg/about-create/research-centres/smart
+    url: /Research/FM/AboutFM
     sublinks:
       - title: BioSyM IRG
         url: https://safe.menlosecurity.com/https://smart.mit.edu/research/biosym/about-biosym
