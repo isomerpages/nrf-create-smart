@@ -7,3 +7,6 @@ Board Members
 -------------
 
 ### SMART Governing Board
+
+
+### SMART-MIT Internal Advisory Board
