@@ -1,4 +1,5 @@
 collections:
   innovation-centre:
     output: true
-    order: []
+    order:
+      - About SMART Innovation Centre.md
