@@ -2,6 +2,6 @@ collections:
   about-smart:
     output: true
     order:
-      - Organisation Chart.md
       - About SMART.md
       - Board Members.md
+      - Organisation Chart.md
