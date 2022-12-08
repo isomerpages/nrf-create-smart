@@ -6,3 +6,4 @@ description: ""
 ### The SMART Organisation
 ----------------------
 
+![](/images/Orgn%20Chart/OrgnChart.png)
