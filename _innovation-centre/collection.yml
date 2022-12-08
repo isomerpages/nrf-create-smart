@@ -2,4 +2,5 @@ collections:
   innovation-centre:
     output: true
     order:
+      - Training & Mentoring.md
       - About SMART Innovation Centre.md
