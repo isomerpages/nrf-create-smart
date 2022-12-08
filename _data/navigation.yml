@@ -4,11 +4,11 @@ links:
     url: /https://safe.menlosecurity.com/https://smart.mit.edu//
   - title: Single page demo
     url: https://safe.menlosecurity.com/https://smart.mit.edu/research/biosym/about-biosym
-  - title: "Submenu demo "
-    url: /Research/FM/AboutFM
+  - title: Research
+    url: /Research/
     sublinks:
-      - title: fm
-        url: /Research/FM/AboutFM/permalink/
+      - title: FM
+        url: /FM/AboutFM/permalink/
       - title: CENSAM
         url: https://safe.menlosecurity.com/https://smart.mit.edu/research/censam/about-censam
   - title: RESEARCH
