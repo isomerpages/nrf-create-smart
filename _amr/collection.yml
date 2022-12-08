@@ -2,4 +2,5 @@ collections:
   amr:
     output: true
     order:
+      - Research Projects.md
       - About AMR.md
