@@ -2,5 +2,5 @@ collections:
   research:
     output: true
     order:
-      - FM/Example page.md
+      - FM/About FM.md
       - FM/.keep
