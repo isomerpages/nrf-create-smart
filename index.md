@@ -10,7 +10,7 @@ sections:
   - hero:
       title: SMART
       subtitle: Singapore-MIT Alliance for Research and Technology
-      background: /images/test_create_smart_image.jpg
+      background: /images/SMART.png
       key_highlights:
         - title: About SMART
           description: ""
