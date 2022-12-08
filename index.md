@@ -90,4 +90,14 @@ sections:
       button: FIND OUT MORE
       url: /LEES/
       alt: Image alt text
+  - infobar:
+      description: SMART also consists of the SMART Innovation Centre. It assists
+        researchers to pursue novel avenues of market-driven research towards
+        commercialisation
+      button: FIND OUT MORE
+      url: /SMARTIC/
+  - resources:
+      title: New Releases
+      subtitle: MEDIA
+      button: VIEW MORE
 ---
