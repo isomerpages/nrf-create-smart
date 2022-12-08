@@ -2,6 +2,7 @@ collections:
   research:
     output: true
     order:
+      - AMR/About AMR.md
       - AMR/.keep
       - FM/.keep
       - FM/About FM.md
