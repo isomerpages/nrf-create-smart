@@ -4,21 +4,7 @@ permalink: /research/FM/Directory/permalink/
 description: ""
 third_nav_title: FM
 ---
-> FM Lead Principal Investigator - MIT
-
-**Associate Professor   ZHAO,   Jinhua**
-
-Urban Studies and Planning
-
-Expertise in:
-
-Data Analytics, Transport Economics, Transport Policy, Travel behavior
-
-US(+1) 617 324 7594
-
-[jinhua@MIT.EDU](jinhua@MIT.EDU)
-
-
+### Directory ##
 	
 
 | Role | Name | Expertise | ContacNo. | Email | Website |
