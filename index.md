@@ -11,11 +11,10 @@ sections:
       title: SMART
       subtitle: Singapore-MIT Alliance for Research and Technology
       background: /images/test_create_smart_image.jpg
-      url: /test-smart-contactus
       key_highlights:
-        - title: "News "
+        - title: About SMART
           description: ""
-          url: https://google.com
+          url: https://safe.menlosecurity.com/https://smart.mit.edu/about-smart/about-smart
         - title: FAQs
           description: ""
           url: /FAQ/
