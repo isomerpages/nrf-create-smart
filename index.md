@@ -33,6 +33,7 @@ sections:
       button: FIND OUT MORE
       url: /AMR/
       alt: Image alt text
+      image: /images/AMR2.png
   - infopic:
       title: BioSystems and Micromechnics
       subtitle: BioSYM
