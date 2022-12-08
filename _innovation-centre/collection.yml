@@ -2,9 +2,9 @@ collections:
   innovation-centre:
     output: true
     order:
-      - Which Program is Best For You.md
+      - About SMART Innovation Centre.md
+      - Our Program/.keep
       - Our Program/Innovation 2.md
       - Our Program/Our Program.md
-      - Our Program/.keep
-      - About SMART Innovation Centre.md
+      - Which Program is Best For You.md
       - Training & Mentoring.md
