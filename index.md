@@ -71,4 +71,5 @@ sections:
       button: FIND OUT MORE
       url: /FM/
       alt: Image alt text
+      image: /images/FM.png
 ---
