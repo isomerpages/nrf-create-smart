@@ -97,7 +97,7 @@ sections:
       button: FIND OUT MORE
       url: /SMARTIC/
   - resources:
-      title: New Releases
+      title: New Releases & Events
       subtitle: MEDIA
       button: VIEW MORE
 ---
