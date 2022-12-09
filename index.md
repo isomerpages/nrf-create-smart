@@ -31,7 +31,7 @@ sections:
         Singapore to develop transformative technologies against drug-resistant
         microbes.
       button: FIND OUT MORE
-      url: https://safe.menlosecurity.com/https://www.google.com/
+      url: /AMR/AboutAMR/permalink/
       alt: Image alt text
       image: /images/AMR2.png
   - infopic:
