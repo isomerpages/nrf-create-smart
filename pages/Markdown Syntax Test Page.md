@@ -22,6 +22,8 @@ Additional reference guide to markdown syntax, syntax examples below:
 
 
 Embbeding links using attributes table
+Embedded link s (within table) in this example facilitates navigation
+
 | Title example | Link no. |
 | --- | --- |
 | Title 1 | * [name of title link 1](#1)|
@@ -29,7 +31,12 @@ Embbeding links using attributes table
 
 
 <a id='1'></a>
-##### Title 1
+<b>Title 1</b><br/>
+This is a place holder for a section example under Title 1<br/>
+String 1<br/>
+String 2<br/>
+String 3<br/>
 
 <a id='2'></a>
-##### Title 2
+<b>Title 2</b><br/>
+This is a place holder for a section example under Title 2
