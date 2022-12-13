@@ -23,4 +23,4 @@ Each grant program (Innovation 2.0, STDR Stream 2, and I2START) has 3 phases of 
 ### Phases for Venture Development under the Innovation Centre programs
 -------------------------------------------------------------------
 
-![](/images/InnvationCentrePhases.png)
+![](/images/InnovationCentre/InnvationCentrePhases.png)
