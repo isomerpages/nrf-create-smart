@@ -3,9 +3,9 @@ title: Markdown Syntax Test Page
 permalink: /Markdownsyntax/permalink/
 description: ""
 ---
-<font color = "red"><b>[READ THIS]</b> Before you start</font>
+<font color = "red"><b>[Refer to this]</b> Additional reference guide to markdown syntax, syntax examples below</font>
 
-Additional reference guide to markdown syntax, syntax examples below:
+Besides the basic markdown syntax, inline HTML may be used to augment options available for texts/ paragraph
 
 * <font color = "blue"> Colored font example </font>
 
@@ -15,7 +15,7 @@ Additional reference guide to markdown syntax, syntax examples below:
 
 * <p> Paragraph example</p>
 
-* Paragraph with newline .<br/> This is the next line (newline).
+* Paragraph with newline .<br/> This is the next line (newline).<br/>
 
 
 * <div style="background-color: #ffd966; padding : 20px"> A section with different background color (hexcode) </div>
