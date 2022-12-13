@@ -42,5 +42,5 @@ String 3<br/>
 This is a place holder for a section example under Title 2
 
 <b> Youtube videos </b> <br/>
-While it's not possible to embed video in markdown, the best and easiest way is to extract a frame from the video and link the video url on the image. 
+While it's not possible to embed video in markdown, the best and easiest way is to extract a frame from the video and link the video url on the image. In below example, default hero banner used, with CREATE youtube video.
 [![Alt text](/images/hero-banner.png)](https://safe.menlosecurity.com/https://www.youtube.com/watch?v=fsBoM23PKMs&t=1s)
