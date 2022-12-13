@@ -4,7 +4,6 @@ permalink: /innovation-centre/Our-Program/Innovation2permalink/
 description: ""
 third_nav_title: Our Program
 ---
-
 INNOVATION 2.0 GRANT PROGRAM
 ----------------------------
 
@@ -21,7 +20,7 @@ The SMART Innovation Centre (SMART IC) will conduct a grant call annually and ca
 
 Innovation Grant 2.0 is a gated 3 phase program to prepare a team of scientist-entrepreneurs to launch a successful venture, with funding and training, and intense mentoring provided across all three phases. **SMART Innovation Grant 2.0** conducts a series of workshops for scientists and researchers in Singapore passionate about growing new ventures around their disruptive technology to support each phase of the grant. As in all training programs, you need to progressively advance in skills and demonstrate your value proposition from both the technical, market and implementation perspectives. **SMART Innovation Grant 2.0** will guide you through this process from lab idea to fundable, executable new venture. You will be mentored one-on-one and provided training, oversight, and critical review by the SMART Directors and Advisory Board. The following chart is a summary:
 
-![](/images/InnovationGrant2%20table.png)
+![](/images/InnovationCentre/InnovationGrant2%20table.png)
 
 ### Description of Innovation 2.0 3 phases
 --------------------------------------
@@ -86,5 +85,3 @@ The Venture Exploration Phase will provide training in hypothesis development, m
     Download to apply:
 		
 	[Venture Exploration Workshop Application Form](/files/InnovationProgram2%20Forms/SMART_Innovation_Grant_Phase_I_Venture_Exploration_Workshop.pdf)
-	
-	
