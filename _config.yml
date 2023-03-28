@@ -1,8 +1,8 @@
-title: Title
-url: ""
-favicon: /images/favicon-isomer.ico
+title: SMART
+url: https://www.create.edu.sg
+favicon: /images/favicon.ico
 colors:
-  primary-color: "#6031b6"
+  primary-color: "#800000"
   secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: ""
 permalink: none
 baseurl: ""
 exclude:
@@ -52,3 +52,8 @@ plugins:
 staging: https://staging.d1y086cfm99k88.amplifyapp.com
 prod: https://master.d1y086cfm99k88.amplifyapp.com
 resources_name: resources
+shareicon: /images/logo.png
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
