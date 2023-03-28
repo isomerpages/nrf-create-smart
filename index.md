@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: About SMART
           description: ""
-          url: /about-smart/permalink/
+          url: /about-smart/
         - title: FAQs
           description: ""
           url: /FAQ/
@@ -31,7 +31,7 @@ sections:
         Singapore to develop transformative technologies against drug-resistant
         microbes.
       button: FIND OUT MORE
-      url: /AMR/AboutAMR/permalink/
+      url: /AMR/AboutAMR/
       alt: Image alt text
       image: /images/AMR2.png
   - infopic:
@@ -68,7 +68,7 @@ sections:
       description: Developing a new paradigm for the planning, design, and operation
         of future urban passenger & freight transportation systems
       button: FIND OUT MORE
-      url: /FM/AboutFM/permalink/
+      url: /FM/AboutFM/
       alt: Image alt text
       image: /images/FM.png
   - infopic:
