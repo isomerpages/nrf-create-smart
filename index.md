@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: About SMART
           description: ""
-          url: /about-smart/permalink/
+          url: /about-smart
         - title: FAQs
           description: ""
           url: /FAQ/
