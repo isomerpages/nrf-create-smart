@@ -55,3 +55,6 @@ SMART also consists of the [SMART Innovation Centre](https://smart.mit.edu/inno
 
 **[Download the SMART ID IRG Factsheet](/files/smart-id.pdf)**
 ![](/images/Screenshot%202023-03-29%20102248.png)
+
+**[Download the SMART LEES IRG Factsheet](/files/smart-lees_factsheet_20170904-(nrf-edited).pdf)**
+![](/images/Screenshot%202023-03-29%20102507.png)
