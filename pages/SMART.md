@@ -76,3 +76,6 @@ Singapore 138602
 Website: [https://dspace.mit.edu/](https://dspace.mit.edu/)
 
 Search for "Singapore MIT Alliance"
+
+**[Download the SMART CENSAM IRG Factsheet](/files/smart-censam%20(1).pdf)**
+![](/images/Screenshot%202023-03-29%20103653.png)
