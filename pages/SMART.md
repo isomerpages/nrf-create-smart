@@ -46,3 +46,7 @@ SMART also consists of the [SMART Innovation Centre](https://smart.mit.edu/inno
 
 **[Download the SMART CENSAM IRG Factsheet](/files/smart-censam.pdf)**
 ![](/images/Screenshot%202023-03-29%20101440.png)
+
+**[Download the SMART DISTAP IRG Factsheet](/files/smart-distap-v2-(nrf-edited).pdf)**
+![](/images/Screenshot%202023-03-29%20101712.png)
+
