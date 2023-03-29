@@ -50,3 +50,5 @@ SMART also consists of the [SMART Innovation Centre](https://smart.mit.edu/inno
 **[Download the SMART DISTAP IRG Factsheet](/files/smart-distap-v2-(nrf-edited).pdf)**
 ![](/images/Screenshot%202023-03-29%20101712.png)
 
+**[Download the SMART FM IRG Factsheet](/files/smart-fm2(nrf-edited).pdf)**
+![](/images/Screenshot%202023-03-29%20101943.png)
