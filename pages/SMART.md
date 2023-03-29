@@ -62,7 +62,7 @@ SMART also consists of the [SMART Innovation Centre](https://smart.mit.edu/inno
 **[Download the SMART Innovation Centre Factsheet](/files/smart-ic.pdf)**
 ![](/images/Screenshot%202023-03-29%20103139.png)
 
-**Contact Us **
+**Contact Us**  
 General Line: +65 6516 8603  
 Website: [http://smart.mit.edu/](http://smart.mit.edu/)
 
@@ -72,7 +72,7 @@ Website: [http://smart.mit.edu/](http://smart.mit.edu/)
 CREATE Tower  
 Singapore 138602
 
-**Publications  
-**Website: [https://dspace.mit.edu/](https://dspace.mit.edu/)
+**Publications**  
+Website: [https://dspace.mit.edu/](https://dspace.mit.edu/)
 
 Search for "Singapore MIT Alliance"
