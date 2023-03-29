@@ -58,3 +58,21 @@ SMART also consists of the [SMART Innovation Centre](https://smart.mit.edu/inno
 
 **[Download the SMART LEES IRG Factsheet](/files/smart-lees_factsheet_20170904-(nrf-edited).pdf)**
 ![](/images/Screenshot%202023-03-29%20102507.png)
+
+**[Download the SMART Innovation Centre Factsheet](/files/smart-ic.pdf)**
+![](/images/Screenshot%202023-03-29%20103139.png)
+
+**Contact Us **
+General Line: +65 6516 8603  
+Website: [http://smart.mit.edu/](http://smart.mit.edu/)
+
+**Where to Find Us**  
+1 CREATE Way  
+#10-01   
+CREATE Tower  
+Singapore 138602
+
+**Publications  
+**Website: [https://dspace.mit.edu/](https://dspace.mit.edu/)
+
+Search for "Singapore MIT Alliance"
