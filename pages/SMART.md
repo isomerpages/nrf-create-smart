@@ -3,20 +3,19 @@ title: SMART
 permalink: /about-create/research-centres/smart/
 description: ""
 ---
-
 ![](/images/SMARTlogo.png)
 
-The [Singapore-MIT Alliance for Research and Technology (SMART)](http://smart.mit.edu/) is a leading research centre in Asia established by the Massachusetts Institute of Technology (MIT) and the National Research Foundation (NRF) of Singapore to identify and conduct research on critical problems of societal significance for today and the future.
+The&nbsp;[Singapore-MIT Alliance for Research and Technology (SMART)](http://smart.mit.edu/)&nbsp;is a leading research centre in Asia established by the Massachusetts Institute of Technology (MIT) and the National Research Foundation (NRF) of Singapore to identify and conduct research on critical problems of societal significance for today and the future.
 
-Exemplifying the MIT spirit of research excellence and Singapore’s commitment to R&D, SMART advances high-impact research within and beyond CREATE, building strategic partnerships with universities, research institutes, hospitals, government agencies and industry.
+Exemplifying the MIT spirit of research excellence and Singapore’s commitment to R&amp;D, SMART advances high-impact research within and beyond CREATE, building strategic partnerships with universities, research institutes, hospitals, government agencies and industry.
 
 SMART fosters a creative and collaborative environment that stimulates major discoveries through its interdisciplinary structure. Its three Interdisciplinary Research Groups (IRGs) are as follows:
 
 *   [Antimicrobial Resistance (AMR)](https://amr.smart.mit.edu/)
     *   AMR leverages the scientific and clinical strengths of MIT and Singapore to develop transformative technologies to identify, respond to, and treat drug-resistant microbes.
 
-*   [Critical Analytics for Manufacturing Personalized-Medicine (CAMP)](http://camp.smart.mit.edu/)   
-    *   CAMP is an Interdisciplinary Research Group in Singapore and at MIT focusing on better ways to produce living cells as medicine delivered to humans. CAMP launched in June 2019, with the goal to address two key bottlenecks facing production of a range of potential cell therapies: critical quality attributes (CQA) and process analytic technologies (PAT) for cell therapy production. 
+*   [Critical Analytics for Manufacturing Personalized-Medicine (CAMP)](http://camp.smart.mit.edu/)&nbsp;  
+    *   CAMP is an Interdisciplinary Research Group in Singapore and at MIT focusing on better ways to produce living cells as medicine delivered to humans. CAMP launched in June 2019, with the goal to address two key bottlenecks facing production of a range of potential cell therapies: critical quality attributes (CQA) and process analytic technologies (PAT) for cell therapy production.&nbsp;
 
 *   [Disruptive and Sustainable Technologies for Agricultural Precision (DISTAP)](https://distap.mit.edu/)
     *   Aims to revolutionalize how food is produced to meet the demands of a growing population in an increasing resource constrained world.
@@ -25,7 +24,7 @@ SMART fosters a creative and collaborative environment that stimulates major dis
 
 *   Developing new integrated circuits with reduced energy per function for applications in wireless communication, power electronics, LED lighting, printing, displays and computing
 
-SMART also consists of the [SMART Innovation Centre](https://smart.mit.edu/innovation-centre/our-program) - the translational research arm of SMART - which is modelled after MIT’s Deshpande Center. It uses Adaptive Innovation to assist researchers from Singapore to pursue novel avenues of market-driven research and helps accelerate their innovations toward commercialisation.
+SMART also consists of the&nbsp;[SMART Innovation Centre](https://smart.mit.edu/innovation-centre/our-program)&nbsp;- the translational research arm of SMART - which is modelled after MIT’s Deshpande Center. It uses Adaptive Innovation to assist researchers from Singapore to pursue novel avenues of market-driven research and helps accelerate their innovations toward commercialisation.
 
   
   
@@ -65,18 +64,16 @@ SMART also consists of the [SMART Innovation Centre](https://smart.mit.edu/inno
 
 **Contact Us**  
 General Line: +65 6516 8603  
-Website: [http://smart.mit.edu/](http://smart.mit.edu/)
+Website:&nbsp;[http://smart.mit.edu/](http://smart.mit.edu/)
 
 **Where to Find Us**  
 1 CREATE Way  
-#10-01   
+#10-01&nbsp;  
 CREATE Tower  
 Singapore 138602
 
 **Publications**  
-Website: [https://dspace.mit.edu/](https://dspace.mit.edu/)
+Website:&nbsp;[https://dspace.mit.edu/](https://dspace.mit.edu/)
 
 Search for "Singapore MIT Alliance"
 
-**[Download the SMART CENSAM IRG Factsheet](/files/smart-censam%20(1).pdf)**
-![](/images/Screenshot%202023-03-29%20103653.png)
