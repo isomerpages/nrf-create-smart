@@ -1,20 +1,2 @@
 logo: /images/logo.png
-links:
-  - title: Research
-    url: /about-smart/
-    sublinks:
-      - title: FM
-        url: /fm/aboutfm/
-      - title: AMR
-        url: /amr/aboutamr/
-  - title: Innovation Centre
-    url: /InnovationCentre/permalink
-    sublinks:
-      - title: About SMART Innovation Centre
-        url: /innovation-centre/aboutsmartic/
-      - title: Our Program
-        url: /innovation-centre/our-program/
-      - title: Which Program is Best for You
-        url: /innovation-centre/whichprogrambestforyou/
-      - title: Mentoring and Training
-        url: /innovation-centre/trainingandmentoring/
+links: []
