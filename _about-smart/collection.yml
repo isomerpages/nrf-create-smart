@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - About SMART.md
-      - Board Members.md
       - Organisation Chart.md
