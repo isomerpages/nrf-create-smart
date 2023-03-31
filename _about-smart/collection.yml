@@ -1,5 +1,0 @@
-collections:
-  about-smart:
-    output: true
-    order:
-      - About SMART.md
