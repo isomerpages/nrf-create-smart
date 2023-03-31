@@ -1,8 +1,0 @@
-collections:
-  amr:
-    output: true
-    order:
-      - About AMR.md
-      - Research Projects.md
-      - Directory.md
-      - AMR Career Opportunities.md
