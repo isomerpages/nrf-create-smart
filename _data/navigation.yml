@@ -1,7 +1,5 @@
 logo: /images/logo.png
 links:
-  - title: About SMART
-    collection: about-smart
   - title: Research
     url: /about-smart/
     sublinks:
