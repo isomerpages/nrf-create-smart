@@ -1,4 +1,5 @@
 collections:
   smart:
     output: true
-    order: []
+    order:
+      - SMART.md
