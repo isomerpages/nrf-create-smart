@@ -1,0 +1,4 @@
+collections:
+  smart:
+    output: true
+    order: []
