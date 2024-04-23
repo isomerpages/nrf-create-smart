@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: SMART
-      background: /images/SMARTlogo.png
+      background: /images/SMART_Logo_text__Web_Video_.jpg
       key_highlights:
         - title: Click here for CREATE Home Page
           description: ""
