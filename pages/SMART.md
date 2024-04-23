@@ -98,7 +98,7 @@ agencies and industry</p>
 MIT faculty, researchers and students</p>
 </li>
 <li>
-<p>Offers&nbsp;<a href="https://smart.mit.edu/innovation-centre/our-program" rel="noopener noreferrer nofollow" target="_blank">Innovation Grants</a>
+<p>Offers&nbsp;<a href="https://smart.mit.edu/innovation-centre/our-program" rel="noopener noreferrer nofollow" target="_blank">Innovation Grants</a> 
 <a href="http://smart.mit.edu/innovation-centre/innovation-centre-grants-programmes" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>to inspire commercialisation&nbsp;</p>
 </li>
 </ul>
@@ -146,16 +146,16 @@ MIT faculty, researchers and students</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot%202023-03-29%20103139.png">
 </div>
-<p><strong>Contact Us</strong>
+<p><strong>Contact Us</strong> 
 <br>General Line: +65 6516 8603
 <br>Website:&nbsp;<a href="http://smart.mit.edu/" rel="noopener noreferrer nofollow" target="_blank">http://smart.mit.edu/</a>
 </p>
-<p><strong>Where to Find Us</strong>
+<p><strong>Where to Find Us</strong> 
 <br>1 CREATE Way
 <br>#10-01&nbsp;
 <br>CREATE Tower
 <br>Singapore 138602</p>
-<p><strong>Publications</strong>
+<p><strong>Publications</strong> 
 <br>Website:&nbsp;<a href="https://dspace.mit.edu/" rel="noopener noreferrer nofollow" target="_blank">https://dspace.mit.edu/</a>
 </p>
 <p>Search for "Singapore MIT Alliance"</p>
